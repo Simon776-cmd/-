@@ -2,7 +2,7 @@
 <a href="https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J"><img title="Author" src="https://img.shields.io/badge/Canale Ufficiale-black?style=for-the-badge&logo=whatsApp"></a>
 
 <p align="center"> 
-<a href="https://github.com/chatunitybot"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=9e62d7&center=falso&vCenter=falso&lines=ChatUnity-Bot++%F0%9F%90%88;Entra+nel+nostro+canale+.+%F0%9F%92%96" height="90px"></a> 
+<a href="https://github.com/chatunitybot"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=9e62d7&center=falso&vCenter=falso&lines=ChatUnity-Bot+;Entra+nel+nostro+canale+.+%F0%9F%92%96" height="90px"></a> 
 
 
 
