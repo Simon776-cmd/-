@@ -1,6 +1,6 @@
 let { downloadContentFromMessage } = (await import('@whiskeysockets/baileys'));
 
-export async function before(m, { isAdmin, isBotAdmin }) {
+export async function before(m) {
  
 let chat = db.data.chats[m.chat]
 if (/^[.~#/\$,](read)?viewonce/.test(m.text)) return

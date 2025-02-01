@@ -25,35 +25,52 @@
  ``` 
 
  ```bash 
- pkg upgrade -y && pkg update -y 
+ apt update
  ``` 
 
  ```bash 
- pkg install git -y 
+ pkg upgrade
  ```
 
  ```bash 
- pkg install ffmpeg -y 
+ pkg install git -y
  ```   
 
  ```bash 
- pkg install imagemagick -y 
+ pkg install nodejs -y
  ```  
 
  ```bash 
+ pkg install ffmpeg -y 
+ ```     
+
+  ```bash 
+ pkg install imagemagick -y 
+ ```     
+
+   ```bash 
  pkg install yarn 
  ```     
 
+
  ```bash 
- cd /sdcard && rm -rf chatunity-bot && git clone https://github.com/chatunitybot/chatunity-bot.git
+ git clone https://github.com/chatunitybot/chatunity-bot.git
  ``` 
 
  ```bash 
- cd /sdcard/chatunity-bot 
+ cd chatunity-bot 
  ```   
 
  ```bash 
- yarn
+ yarn install
+ ``` 
+
+  ```bash 
+ npm install
+ ``` 
+
+   ```bash 
+ npm update
  ``` 
 
  ```bash 

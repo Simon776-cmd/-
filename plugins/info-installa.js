@@ -24,12 +24,13 @@ let prova = { "key": {"participants":"0@s.whatsapp.net", "remoteJid": "status@br
 "itemCount": 2023,
 "status": 1,
 "surface" : 1,
-    "message": '𝐒𝐜𝐚𝐫𝐢𝐜𝐚 𝐂𝐡𝐚𝐭𝐮𝐧𝐢𝐭𝐲-𝐁𝐨𝐭,
+    "message": '𝐒𝐜𝐚𝐫𝐢𝐜𝐚 𝐂𝐡𝐚𝐭𝐮𝐧𝐢𝐭𝐲-𝐁𝐨𝐭',
 "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;Unlimited;;;\nFN:Unlimited\nORG:Unlimited\nTITLE:\nitem1.TEL;waid=15395490858:+1 (539) 549-0858\nitem1.X-ABLabel:Unlimited\nX-WA-BIZ-DESCRIPTION:ofc\nX-WA-BIZ-NAME:Unlimited\nEND:VCARD`
 }}, "participant": "0@s.whatsapp.net"
 }
 let info = `
-══════ •⊰✦⊱• ══════
+═════ •⊰✦⊱• ═════
+
 𝐒𝐂𝐀𝐑𝐈𝐂𝐀 𝐂𝐇𝐀𝐓𝐔𝐍𝐈𝐓𝐘-𝐁𝐎𝐓
 
 ✧ 𝐕𝐢𝐬𝐢𝐭𝐚 𝐢𝐥 𝐧𝐨𝐬𝐭𝐫𝐨 𝐠𝐢𝐭𝐡𝐮𝐛 𝐩𝐞𝐫 𝐥𝐞 𝐢𝐬𝐭𝐫𝐮𝐳𝐢𝐨𝐧𝐢
@@ -44,14 +45,14 @@ https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J
 
 https://chat.whatsapp.com/LChd7a5px3n3Jr83egpWvr
 
-══════ •⊰✦⊱• ══════
+═════ •⊰✦⊱• ═════
 `.trim() 
 conn.reply(m.chat, info,prova, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝙸𝙽𝙵𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃',
-body: '𝐂𝐡𝐚𝐭𝐮𝐧𝐢𝐭𝐲',         
-previewType: 0, thumbnail: fs.readFileSync("./bixby.jpg"),
-sourceUrl: `https://github.com/chatunitybot/chatunity-bot`}}})
+body: 'ᴛʜᴇ ᴍʏsᴛɪᴄ ﹣ ʙᴏᴛ',         
+previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
+sourceUrl: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`}}})
 }
 handler.help = ['infobot', 'speed']
 handler.tags = ['info', 'tools']
