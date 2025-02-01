@@ -1,28 +1,8 @@
 <p align="center">
-<a href="https://whatsapp.com/channel/0029Va8SHGnId7nJi8Zdnz3x"><img title="Author" src="https://img.shields.io/badge/Canale Ufficiale-black?style=for-the-badge&logo=whatsApp"></a>
-
-   <p align="center"> 
- <a href="https://github.com/MoonContentCreator/followers"><img title="𝐅𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬" src="https://img.shields.io/github/followers/MoonContentCreator?color=red&style=flat-square"></a> 
- <a href="https://github.com/MoonContentCreator/MoonContentCreator/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MoonContentCreator?color=blue&style=flat-square"></a> 
- <a href="https://github.com/MoonContentCreator/network/members"><img title="𝐅𝐨𝐫𝐤𝐬" src="https://img.shields.io/github/forks/MoonContentCreator/chatunity-bot?color=red&style=flat-square"></a> 
- <a href="https://komarev.com/ghpvc/?username=Fabri115&color=blue&style=flat-square&label=Profile+Visual"><img src="https://komarev.com/ghpvc/?username=MoonContentCreator&color=blue&style=flat-square&label=Profile+Visual" /> 
- <a href="https://github.com/MoonContentCreator/MoonContentCreator/watchers"><img title="𝐖𝐚𝐭𝐜𝐡𝐢𝐧𝐠" src="https://img.shields.io/github/watchers/MoonContentCreator/chatunity-bot?label=Watcher'srepo&color=blue&style=flat-square"></a> 
- <a href="https://github.com/chatunitybot/chatunity-bot"><img title="𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a> 
- <a href="https://github.com/MoonContentCreator/AyGemuy/"><img title="𝐒𝐢𝐳𝐞" src="https://img.shields.io/github/repo-size/MoonContentCreator/chatunity-bot?style=flat-square&color=green"></a> 
- <a href="https://github.com/chatunitybot/chatunity-bot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a 
- <img width="" src="https://img.shields.io/github/repo-size/MoonContentCreator/chatunity-bot?color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor"> 
-
-</p> 
- <p align="center"> 
- <img width="" src="https://telegra.ph/file/c31a290ce6bb4e5ce63cd.png?color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor"> 
- </p> 
-
- <p align="center"> 
- <img width="" src="https://telegra.ph/file/53876cbad328d8cf55bac.png?color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor"> 
- </p> 
+<a href="https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J"><img title="Author" src="https://img.shields.io/badge/Canale Ufficiale-black?style=for-the-badge&logo=whatsApp"></a>
 
 
- ### ` 𝐀𝐍𝐓𝐄𝐏𝐑𝐈𝐌𝐀 𝐃𝐄𝐋 𝐌𝐄𝐍𝐔 👆` 
+
  --------- 
  ### `✦ 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐙𝐈𝐎𝐍𝐄 ChatUnity-Bot-𝐌𝐝🔮 ` 
 
@@ -35,16 +15,11 @@
 
 
 
-### ☁️ SKY ULTRA PLUS
+###  Canale ChatUnity
 <a href="https://dash.skyultraplus.com"><img src="https://qu.ax/zFzXF.png" height="125px"></a>
-### Informazioni su SkyPlus
-- **Pannello di controllo:** [`Aquí`](https://dash.skyultraplus.com)
-- **Pannello:** [`Aquí`](https://panel.skyultraplus.com)
-- **Canale WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g)
-- **Comunità:** [`Aquí`](https://chat.whatsapp.com/JPwcXvPEUwlEOyjI3BpYys)
-- **Contatto/i:** [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1) / [`Russell`](https://api.whatsapp.com/send/?phone=15167096032&text&type=phone_number&app_absent=0) / [`elrebelde21`](https://facebook.com/elrebelde21)
-- **Discordia:** [`SkyUltraPlus`](https://discord.gg/Ph4eWsZ8)
-----
+
+- **Canale WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J)
+- **Contatto/i:** [`ChatUnity`](https://wa.me/8619858371809) 
 
  ### `✦ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐄 𝐃𝐈 𝐓𝐄𝐑𝐌𝐔𝐗 𝐍𝐄𝐂𝐄𝐒𝐒𝐀𝐑𝐈𝐀: `  
  https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file 
