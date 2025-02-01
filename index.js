@@ -1,4 +1,4 @@
-console.log('Preparo bixby...')
+console.log('Preparo ChatUnity-bot...')
 import { join, dirname } from 'path'
 import { createRequire } from "module";
 import { fileURLToPath } from 'url'
