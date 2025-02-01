@@ -133,7 +133,7 @@ let handler = async (_0x23a611, {
     const _0x454b49 = await _0x10531c[_0x381829(0xaf)](_0x524bca, _0x40284d['RxMQJ'])['catch'](_0x4e3ee2 => null) || _0x40284d[_0x381829(0xbe)];
     let _0x5ed9a5;
     _0x40284d[_0x381829(0xb6)](_0x454b49, _0x40284d[_0x381829(0xbe)]) ? _0x5ed9a5 = await (await _0x40284d[_0x381829(0xd2)](fetch, _0x454b49))[_0x381829(0xd8)]() : _0x5ed9a5 = await (await _0x40284d[_0x381829(0xd2)](fetch, _0x40284d[_0x381829(0xdb)]))[_0x381829(0xd8)]();
-    let _0x969fa1 = global['db'][_0x381829(0xe8)]['nomedelbot'] || 'ChatUnity-Bot-𝐌𝐝\x20💬', _0x4227e3 = _0x40284d['OWtnr'], _0x5bb289 = _0x40284d[_0x381829(0xb8)], _0x54e51c = _0x4227e3 + _0x5bb289, _0xdf2135 = (_0x381829(0xd1) + _0x2273ed + _0x381829(0xcc) + _0x2273ed + '𝐟𝐮𝐧𝐳𝐢𝐨𝐧𝐢\x0a-\x20' + _0x2273ed + _0x381829(0xb3) + _0x2273ed + _0x381829(0xb9) + _0x2273ed + _0x381829(0xdf) + _0x2273ed + _0x381829(0xee) + _0x2273ed + '𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐚\x0a-\x20' + _0x2273ed + _0x381829(0xce) + Buffer[_0x381829(0xc0)](_0x54e51c, _0x40284d[_0x381829(0xec)])[_0x381829(0xb7)]() + _0x381829(0xea))[_0x381829(0xe4)]();
+    let _0x969fa1 = global['db'][_0x381829(0xe8)]['nomedelbot'] || 'ChatUnity-Bot\x20💬', _0x4227e3 = _0x40284d['OWtnr'], _0x5bb289 = _0x40284d[_0x381829(0xb8)], _0x54e51c = _0x4227e3 + _0x5bb289, _0xdf2135 = (_0x381829(0xd1) + _0x2273ed + _0x381829(0xcc) + _0x2273ed + '𝐟𝐮𝐧𝐳𝐢𝐨𝐧𝐢\x0a-\x20' + _0x2273ed + _0x381829(0xb3) + _0x2273ed + _0x381829(0xb9) + _0x2273ed + _0x381829(0xdf) + _0x2273ed + _0x381829(0xee) + _0x2273ed + '𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐚\x0a-\x20' + _0x2273ed + _0x381829(0xce) + Buffer[_0x381829(0xc0)](_0x54e51c, _0x40284d[_0x381829(0xec)])[_0x381829(0xb7)]() + _0x381829(0xea))[_0x381829(0xe4)]();
     _0x10531c[_0x381829(0xd6)](_0x23a611[_0x381829(0xe3)], {
         'text': _0xdf2135,
         'contextInfo': {
@@ -141,18 +141,18 @@ let handler = async (_0x23a611, {
             'forwardingScore': 0x1,
             'isForwarded': !![],
             'forwardedNewsletterMessageInfo': {
-                'newsletterJid': _0x40284d[_0x381829(0xbb)],
+                'newsletterJid': 'https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J',
                 'serverMessageId': '',
                 'newsletterName': '' + _0x969fa1
             },
-            'externalAdReply': {
-                'title': '' + _0x52cbf9,
-                'body': _0x381829(0xcd) + vs,
-                'mediaType': 0x1,
-                'renderLargerThumbnail': ![],
-                'previewType': _0x381829(0xbd),
-                'thumbnail': _0x5ed9a5,
-                'sourceUrl': 'ok'
+    'externalAdReply': {
+        'title': 'Unisciti al nostro canale!',
+        'body': 'Clicca qui per accedere: [WhatsApp Channel](https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J)',
+        'mediaType': 0x1,
+        'renderLargerThumbnail': true,
+        'previewType': 'entra nel nostro canale!',
+        'thumbnail': _0x5ed9a5,
+        'sourceUrl': 'https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J'
             }
         }
     });
