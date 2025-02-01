@@ -6,16 +6,7 @@
 
 
 
- --------- 
- ### `✦ 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐙𝐈𝐎𝐍𝐄 ChatUnity-Bot-𝐌𝐝💬 ` 
-
- `𝐔𝐒𝐀 𝐈𝐋 𝐁𝐎𝐓𝐓𝐎𝐍𝐄 𝐏𝐄𝐑 𝐄𝐒𝐄𝐆𝐔𝐈𝐑𝐄 𝐈𝐋 𝐅𝐎𝐑𝐊` 
-
-   <a href="https://github.com/chatunitybot/chatunity-bot/fork"><img title="bot" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a> 
- <br> 
- - 𝐂𝐋𝐎𝐍𝐀𝐑𝐄 𝐋𝐀 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 [qui](https://github.com/chatunitybot/chatunity-bot/fork) 
-
-
+ ---------
 
 ###  Canale ChatUnity
 

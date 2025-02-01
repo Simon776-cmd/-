@@ -3,7 +3,7 @@ import Jimp from 'jimp'
 let handler = async (m, { args, conn, command, usedPrefix }) => {
    let q = m.quoted ? m.quoted : m
    let mime = (q.msg || q).mimetype || q.mediaType || ''
-   if (!/image/g.test(mime)) return m.reply('Rrispondi a una immagine.')
+   if (!/image/g.test(mime)) return m.reply('Rispondi a una immagine.')
    let media = await q.download()
    if (args[0] == '--full') {
       let { img } = await pepe(media)
