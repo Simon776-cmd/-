@@ -1,8 +1,8 @@
 {
   "users": {
     "8619858371809@s.whatsapp.net": {
-      "messaggi": 25,
-      "exp": 137,
+      "messaggi": 42,
+      "exp": 278,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -119,8 +119,8 @@
       "muto": false
     },
     "393803482529@s.whatsapp.net": {
-      "messaggi": 39,
-      "exp": 219,
+      "messaggi": 49,
+      "exp": 267,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -191,10 +191,20 @@
       "money": null
     },
     "393534075737@s.whatsapp.net": {
-      "messaggi": 1,
-      "exp": null,
-      "limit": null,
-      "money": null
+      "messaggi": 7,
+      "exp": 48,
+      "limit": 20,
+      "money": 0,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "𝕵𝖔𝖐𝖊𝖗",
+      "muto": false
     },
     "183249225650376@lid": {
       "messaggi": 1,
@@ -235,6 +245,50 @@
       "exp": null,
       "limit": null,
       "money": null
+    },
+    "393289368561@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "393515533859@s.whatsapp.net": {
+      "messaggi": 11,
+      "exp": 133,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "vale",
+      "muto": false
+    },
+    "3445151006806@lid": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "393508287515@s.whatsapp.net": {
+      "messaggi": 3,
+      "exp": 13,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "𝖔𝖓𝖎𝖝 ³⁹",
+      "muto": false
     }
   },
   "chats": {
@@ -347,7 +401,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 18,
+      "messaggi": 21,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -425,7 +479,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 38,
+      "messaggi": 43,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -503,7 +557,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 26,
+      "messaggi": 32,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -541,7 +595,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 6,
+      "messaggi": 13,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -619,7 +673,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 2,
+      "messaggi": 30,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -630,16 +684,52 @@
   },
   "stats": {
     "menu-principale.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1738402496383,
-      "lastSuccess": 1738402496383
+      "total": 3,
+      "success": 3,
+      "last": 1738405654304,
+      "lastSuccess": 1738405654304
     },
     "menu-funzioni.js": {
       "total": 2,
       "success": 2,
       "last": 1738402781431,
       "lastSuccess": 1738402781431
+    },
+    "enable.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1738405383175,
+      "lastSuccess": 1738405383175
+    },
+    "info-ping.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1738405522790,
+      "lastSuccess": 1738405522790
+    },
+    "info-owner.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1738405666817,
+      "lastSuccess": 1738405666817
+    },
+    "menu-owner.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1738405672266,
+      "lastSuccess": 1738405672266
+    },
+    "info-installa.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1738405858430,
+      "lastSuccess": 1738405858430
+    },
+    "gp-Insulto.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1738406173508,
+      "lastSuccess": 1738406173508
     }
   },
   "msgs": {},
@@ -650,7 +740,7 @@
       "autoread": false,
       "restrict": true,
       "antiCall": true,
-      "antiPrivate": true,
+      "antiPrivate": false,
       "jadibot": true
     }
   }

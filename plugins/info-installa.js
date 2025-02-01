@@ -20,11 +20,11 @@ let neww = performance.now()
 let speed = (neww - old).toFixed(4)
 let prova = { "key": {"participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo"
 }, "message": { 
-"orderMessage": { text: '𝐂𝐡𝐚𝐭𝐮𝐧𝐢𝐭𝐲 𝐁𝐨𝐭 🔮',
+"orderMessage": { text: '𝐂𝐡𝐚𝐭𝐮𝐧𝐢𝐭𝐲 𝐁𝐨𝐭 💬',
 "itemCount": 2023,
 "status": 1,
 "surface" : 1,
-    "message": '𝐒𝐜𝐚𝐫𝐢𝐜𝐚 𝐂𝐡𝐚𝐭𝐮𝐧𝐢𝐭𝐲 𝐁𝐨𝐭 🔮',
+    "message": '𝐒𝐜𝐚𝐫𝐢𝐜𝐚 𝐂𝐡𝐚𝐭𝐮𝐧𝐢𝐭𝐲 𝐁𝐨𝐭 💬',
 "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;Unlimited;;;\nFN:Unlimited\nORG:Unlimited\nTITLE:\nitem1.TEL;waid=15395490858:+1 (539) 549-0858\nitem1.X-ABLabel:Unlimited\nX-WA-BIZ-DESCRIPTION:ofc\nX-WA-BIZ-NAME:Unlimited\nEND:VCARD`
 }}, "participant": "0@s.whatsapp.net"
 }

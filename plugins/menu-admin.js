@@ -117,7 +117,7 @@ function _0x1183() {
         '73322ZGaQmq',
         '10688742BjSCqS',
         '1237870TqJdTA',
-        'ChatUnity-Bot-𝐌𝐝\x20🔮',
+        'ChatUnity-Bot-𝐌𝐝\x20💬',
         'VmrgF',
         'menu',
         '𝐦𝐮𝐭𝐚\x20/\x20𝐬𝐦𝐮𝐭𝐚\x0a-\x20',

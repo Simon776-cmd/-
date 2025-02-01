@@ -4,7 +4,7 @@
 
 
  --------- 
- ### `✦ 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐙𝐈𝐎𝐍𝐄 ChatUnity-Bot-𝐌𝐝🔮 ` 
+ ### `✦ 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐙𝐈𝐎𝐍𝐄 ChatUnity-Bot-𝐌𝐝💬 ` 
 
  `𝐔𝐒𝐀 𝐈𝐋 𝐁𝐎𝐓𝐓𝐎𝐍𝐄 𝐏𝐄𝐑 𝐄𝐒𝐄𝐆𝐔𝐈𝐑𝐄 𝐈𝐋 𝐅𝐎𝐑𝐊` 
 
@@ -23,13 +23,13 @@
  ### `✦ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐄 𝐃𝐈 𝐓𝐄𝐑𝐌𝐔𝐗 𝐍𝐄𝐂𝐄𝐒𝐒𝐀𝐑𝐈𝐀: `  
  https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file 
 
- ### `✦ 𝐂𝐎𝐌𝐀𝐍𝐃𝐎 𝐏𝐄𝐑 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐑𝐄 𝐋𝐀 𝐂𝐀𝐑𝐓𝐄𝐋𝐋𝐀 𝐃𝐈 ChatUnity-Bot-𝐌𝐝 🔮` 
+ ### `✦ 𝐂𝐎𝐌𝐀𝐍𝐃𝐎 𝐏𝐄𝐑 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐑𝐄 𝐋𝐀 𝐂𝐀𝐑𝐓𝐄𝐋𝐋𝐀 𝐃𝐈 ChatUnity-Bot-💬` 
  ```bash 
- cd /sdcard && rm -rf BixbyBot && git clone https://github.com/chatunitybot/chatunity-bot.git && cd chatunity-bot
+ cd /sdcard && rm -rf chatunity-bot && git clone https://github.com/chatunitybot/chatunity-bot.git && cd chatunity-bot
  ``` 
  COPIALO TUTTO E INCOLLALO SU TERMUX, NON COPIARE MEZZA O UNA COSA, E' TUTTO INSIEME 
 
- ### `✦ 𝐀𝐓𝐓𝐈𝐕𝐀 ChatUnity-Bot-𝐌𝐝 🔮 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗 `  
+ ### `✦ 𝐀𝐓𝐓𝐈𝐕𝐀 ChatUnity-Bot-💬 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗 `  
  - 𝐃𝐈𝐆𝐈𝐓𝐀 𝐐𝐔𝐄𝐒𝐓𝐈 𝐂𝐎𝐌𝐀𝐍𝐃𝐈: 
  ```bash 
  termux-setup-storage 
@@ -56,7 +56,7 @@
  ```     
 
  ```bash 
- cd /sdcard && rm -rf BixbyBot && git clone https://github.com/chatunitybot/chatunity-bot.git
+ cd /sdcard && rm -rf chatunity-bot && git clone https://github.com/chatunitybot/chatunity-bot.git
  ``` 
 
  ```bash 
@@ -71,7 +71,7 @@
  npm start
  ``` 
 
- ### `✦ 𝐀𝐕𝐕𝐈𝐀 ChatUnity-Bot-𝐌𝐝 🔮 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗` 
+ ### `✦ 𝐀𝐕𝐕𝐈𝐀 ChatUnity-Bot-💬 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗` 
 
  DIGITA QUESTI COMANDI: 
  ```bash 
@@ -81,13 +81,13 @@
  > npm start
  ``` 
 
- ### `ChatUnity-Bot-𝐌𝐝 🔮 𝟐𝟒/𝟕 𝐀𝐜𝐭𝐢𝐯𝐚𝐭𝐢𝐨𝐧 𝐓𝐄𝐑𝐌𝐔𝐗` 
+ ### `ChatUnity-Bot-💬 𝟐𝟒/𝟕 𝐀𝐜𝐭𝐢𝐯𝐚𝐭𝐢𝐨𝐧 𝐓𝐄𝐑𝐌𝐔𝐗` 
 
   ```bash 
  > npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
    ``` 
 
- ### `✦ 𝐎𝐓𝐓𝐈𝐄𝐍𝐈 𝐔𝐍 𝐀𝐋𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐂𝐄 𝐐𝐑 ChatUnity-Bot-𝐌𝐝 🔮 ` 
+ ### `✦ 𝐎𝐓𝐓𝐈𝐄𝐍𝐈 𝐔𝐍 𝐀𝐋𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐂𝐄 𝐐𝐑 ChatUnity-Bot-💬 ` 
 
  DIGITA QUESTI COMANDI: 
  ```
@@ -129,7 +129,7 @@
  ``` 
 
  --------- 
- ### `✦ 𝐎𝐓𝐓𝐈𝐄𝐍𝐈 𝐔𝐍 𝐀𝐋𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐂𝐄 𝐐𝐑 ChatUnity-Bot-𝐌𝐝 🔮 ` 
+ ### `✦ 𝐎𝐓𝐓𝐈𝐄𝐍𝐈 𝐔𝐍 𝐀𝐋𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐂𝐄 𝐐𝐑 ChatUnity-Bot-💬 ` 
 
  𝐃𝐈𝐆𝐈𝐓𝐀 𝐐𝐔𝐄𝐒𝐓𝐈 𝐂𝐎𝐌𝐀𝐍𝐃𝐈: 
  ```bash 
@@ -145,8 +145,8 @@
  > sh start.sh 
  ``` 
  --------- 
- ### `✦ 𝐍𝐎𝐓𝐄 ChatUnity-Bot-𝐌𝐝 🔮` 
-  - 𝐈𝐋 𝐁𝐎𝐓 ChatUnity-Bot-𝐌𝐝 🔮 𝐄' 𝐂𝐎𝐌𝐏𝐀𝐓𝐈𝐁𝐈𝐋𝐄 𝐂𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐔𝐒𝐈𝐍𝐄𝐒𝐒 𝐄 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐍𝐎𝐑𝐌𝐀𝐋𝐄 
+ ### `✦ 𝐍𝐎𝐓𝐄 ChatUnity-Bot-💬` 
+  - 𝐈𝐋 𝐁𝐎𝐓 ChatUnity-Bot-💬 𝐄' 𝐂𝐎𝐌𝐏𝐀𝐓𝐈𝐁𝐈𝐋𝐄 𝐂𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐔𝐒𝐈𝐍𝐄𝐒𝐒 𝐄 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐍𝐎𝐑𝐌𝐀𝐋𝐄 
  - 𝐏𝐄𝐑 𝐁𝐋𝐎𝐂𝐂𝐀𝐑𝐄 𝐆𝐋𝐈 𝐔𝐓𝐄𝐍𝐓𝐈 𝐈𝐍 𝐏𝐑𝐈𝐕𝐀𝐓𝐎 𝐄𝐒𝐄𝐆𝐔𝐈 𝐈𝐋 𝐂𝐎𝐌𝐀𝐍𝐃𝐎 .𝐚𝐭𝐭𝐢𝐯𝐚 𝐚𝐧𝐭𝐢𝐩𝐫𝐢𝐯𝐚𝐭𝐨 
  - 𝐒𝐄 𝐈 𝐌𝐄𝐒𝐒𝐀𝐆𝐆𝐈 𝐃𝐄𝐋 𝐁𝐎𝐓 𝐑𝐈𝐒𝐔𝐋𝐓𝐀𝐍𝐎 𝐈𝐍 "𝐀𝐓𝐓𝐄𝐒𝐀" 𝐄𝐒𝐄𝐆𝐔𝐈 𝐈𝐋 𝐂𝐎𝐌𝐀𝐍𝐃𝐎 .𝐝𝐬 𝐄 𝐀𝐓𝐓𝐄𝐍𝐃𝐈 𝐐𝐔𝐀𝐋𝐂𝐇𝐄 𝐈𝐒𝐓𝐀𝐍𝐓𝐄 
  --------- 

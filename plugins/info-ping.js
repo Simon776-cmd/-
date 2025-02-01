@@ -100,7 +100,7 @@ function _0x24c5() {
         '@g.us',
         'toString',
         '49KOGara',
-        'ChatUnity-Bot-𝐌𝐝\x20🔮',
+        'ChatUnity-Bot-𝐌𝐝\x20💬',
         '28812672TiIaKB',
         'tags',
         'sender',
