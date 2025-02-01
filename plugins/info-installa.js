@@ -40,15 +40,15 @@ let info = `
 ✧ pkg install ffmpeg -y
 ✧ pkg install imagemagick -y
 ✧ pkg install yarn
-✧ git clone https://github.com/MoonContentCreator/BixbyBot-Md.git
-✧ cd BixbyBot-Md 
+✧ git clone https://github.com/chatunitybot/chatunity-bot.git
+✧ cd chatunity-bot 
 ✧ yarn install 
 ✧ npm install
 ✧ npm update
 ✧ npm start
 
 𝐒𝐜𝐚𝐫𝐢𝐜𝐚𝐫𝐞 𝐥𝐚 𝐜𝐚𝐫𝐭𝐞𝐥𝐥𝐚 𝐝𝐞𝐥 𝐛𝐨𝐭 📱
-✧ cd /sdcard && rm -rf BixbyBot-Md && git clone https://github.com/MoonContentCreator/BixbyBot-Md.git && cd BixbyBot-Md && npm start
+✧ cd /sdcard && rm -rf chatunity-bot && git clone https://github.com/chatunitybot/chatunity-bot.git && cd chatunity-bot && npm start
 ══════ •⊰✦⊱• ══════
 `.trim() 
 conn.reply(m.chat, info,prova, m, {

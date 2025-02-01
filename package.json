@@ -16,16 +16,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/MoonContentCreator/BixbyBot-Md",
+"homepage": "https://github.com/chatunitybot/chatunity-bot",
 "author": {
 "name": "MoonContentCreator"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/MoonContentCreator/BixbyBot-Md.git"
+"url": "git+https://github.com/chatunitybot/chatunity-bot.git"
 },
 "bugs": {
-"url": "https://github.com/MoonContentCreator/BixbyBot-Md/issues"
+"url": "https://github.com/chatunitybot/chatunity-bot/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {

@@ -4,13 +4,13 @@
    <p align="center"> 
  <a href="https://github.com/MoonContentCreator/followers"><img title="𝐅𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬" src="https://img.shields.io/github/followers/MoonContentCreator?color=red&style=flat-square"></a> 
  <a href="https://github.com/MoonContentCreator/MoonContentCreator/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MoonContentCreator?color=blue&style=flat-square"></a> 
- <a href="https://github.com/MoonContentCreator/network/members"><img title="𝐅𝐨𝐫𝐤𝐬" src="https://img.shields.io/github/forks/MoonContentCreator/BixbyBot-Md?color=red&style=flat-square"></a> 
+ <a href="https://github.com/MoonContentCreator/network/members"><img title="𝐅𝐨𝐫𝐤𝐬" src="https://img.shields.io/github/forks/MoonContentCreator/chatunity-bot?color=red&style=flat-square"></a> 
  <a href="https://komarev.com/ghpvc/?username=Fabri115&color=blue&style=flat-square&label=Profile+Visual"><img src="https://komarev.com/ghpvc/?username=MoonContentCreator&color=blue&style=flat-square&label=Profile+Visual" /> 
- <a href="https://github.com/MoonContentCreator/MoonContentCreator/watchers"><img title="𝐖𝐚𝐭𝐜𝐡𝐢𝐧𝐠" src="https://img.shields.io/github/watchers/MoonContentCreator/BixbyBot-Md?label=Watcher'srepo&color=blue&style=flat-square"></a> 
- <a href="https://github.com/MoonContentCreator/BixbyBot-Md"><img title="𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a> 
- <a href="https://github.com/MoonContentCreator/AyGemuy/"><img title="𝐒𝐢𝐳𝐞" src="https://img.shields.io/github/repo-size/MoonContentCreator/BixbyBot-Md?style=flat-square&color=green"></a> 
- <a href="https://github.com/MoonContentCreator/BixbyBot-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a 
- <img width="" src="https://img.shields.io/github/repo-size/MoonContentCreator/BixbyBot-Md?color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor"> 
+ <a href="https://github.com/MoonContentCreator/MoonContentCreator/watchers"><img title="𝐖𝐚𝐭𝐜𝐡𝐢𝐧𝐠" src="https://img.shields.io/github/watchers/MoonContentCreator/chatunity-bot?label=Watcher'srepo&color=blue&style=flat-square"></a> 
+ <a href="https://github.com/chatunitybot/chatunity-bot"><img title="𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a> 
+ <a href="https://github.com/MoonContentCreator/AyGemuy/"><img title="𝐒𝐢𝐳𝐞" src="https://img.shields.io/github/repo-size/MoonContentCreator/chatunity-bot?style=flat-square&color=green"></a> 
+ <a href="https://github.com/chatunitybot/chatunity-bot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a 
+ <img width="" src="https://img.shields.io/github/repo-size/MoonContentCreator/chatunity-bot?color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor"> 
 
 </p> 
  <p align="center"> 
@@ -28,10 +28,10 @@
 
  `𝐔𝐒𝐀 𝐈𝐋 𝐁𝐎𝐓𝐓𝐎𝐍𝐄 𝐏𝐄𝐑 𝐄𝐒𝐄𝐆𝐔𝐈𝐑𝐄 𝐈𝐋 𝐅𝐎𝐑𝐊` 
 
-   <a href="https://github.com/MoonContentCreator/BixbyBot-Md/fork"><img title="bot" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a> 
+   <a href="https://github.com/chatunitybot/chatunity-bot/fork"><img title="bot" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a> 
  <br> 
- - 𝐂𝐋𝐎𝐍𝐀𝐑𝐄 𝐋𝐀 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 [qui](https://github.com/MoonContentCreator/BixbyBot-Md/fork) 
- - 𝐂𝐀𝐌𝐁𝐈𝐀𝐑𝐄 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐏𝐑𝐎𝐏𝐑𝐈𝐄𝐓𝐀𝐑𝐈𝐎 [qui](https://github.com/MoonContentCreator/BixbyBot-Md/blob/master/config.js) 
+ - 𝐂𝐋𝐎𝐍𝐀𝐑𝐄 𝐋𝐀 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 [qui](https://github.com/chatunitybot/chatunity-bot/fork) 
+ - 𝐂𝐀𝐌𝐁𝐈𝐀𝐑𝐄 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐏𝐑𝐎𝐏𝐑𝐈𝐄𝐓𝐀𝐑𝐈𝐎 [qui](https://github.com/chatunitybot/chatunity-bot/blob/master/config.js) 
 
 
 
@@ -51,7 +51,7 @@
 
  ### `✦ 𝐂𝐎𝐌𝐀𝐍𝐃𝐎 𝐏𝐄𝐑 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐑𝐄 𝐋𝐀 𝐂𝐀𝐑𝐓𝐄𝐋𝐋𝐀 𝐃𝐈 ChatUnity-Bot-𝐌𝐝 🔮` 
  ```bash 
- cd /sdcard && rm -rf BixbyBot && git clone https://github.com/MoonContentCreator/BixbyBot-Md.git && cd BixbyBot-Md
+ cd /sdcard && rm -rf BixbyBot && git clone https://github.com/chatunitybot/chatunity-bot.git && cd chatunity-bot
  ``` 
  COPIALO TUTTO E INCOLLALO SU TERMUX, NON COPIARE MEZZA O UNA COSA, E' TUTTO INSIEME 
 
@@ -82,11 +82,11 @@
  ```     
 
  ```bash 
- cd /sdcard && rm -rf BixbyBot && git clone https://github.com/MoonContentCreator/BixbyBot-Md.git
+ cd /sdcard && rm -rf BixbyBot && git clone https://github.com/chatunitybot/chatunity-bot.git
  ``` 
 
  ```bash 
- cd /sdcard/BixbyBot-Md 
+ cd /sdcard/chatunity-bot 
  ```   
 
  ```bash 
@@ -101,7 +101,7 @@
 
  DIGITA QUESTI COMANDI: 
  ```bash 
- > cd /sdcard/BixbyBot-Md 
+ > cd /sdcard/chatunity-bot 
  ``` 
  ```bash 
  > npm start
@@ -117,7 +117,7 @@
 
  DIGITA QUESTI COMANDI: 
  ```
- > cd /sdcard/BixbyBot-Md 
+ > cd /sdcard/chatunity-bot 
  ``` 
  ```bash 
  > rm -rf Sessioni 
@@ -134,10 +134,10 @@
  * Scarica e installa ImageMagick [`Clicca qui`](https://imagemagick.org/script/download.php) 
 
  ```bash 
- git clone https://github.com/MoonContentCreator/BixbyBot-Md 
+ git clone https://github.com/chatunitybot/chatunity-bot 
  ``` 
  ```bash 
- cd BixbyBot-Md 
+ cd chatunity-bot 
  ``` 
  ```bash 
  npm install 
@@ -162,7 +162,7 @@
  > cd  
  ``` 
  ```bash 
- > cd /sdcard/BixbyBot-Md 
+ > cd /sdcard/chatunity-bot 
  ``` 
  ```bash 
  > rm Sessioni 
@@ -183,6 +183,6 @@
 --------- 
 
  ## `🌟 𝐂𝐎𝐋𝐋𝐀𝐁𝐎𝐑𝐀𝐓𝐎𝐑𝐈 `  
-<a href="https://github.com/MoonContentCreator/BixbyBot-Md/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=MoonContentCreator/BixbyBot-Md" /> 
+<a href="https://github.com/chatunitybot/chatunity-bot/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=MoonContentCreator/chatunity-bot" /> 
 </a>
