@@ -1,8 +1,8 @@
 {
   "users": {
     "8619858371809@s.whatsapp.net": {
-      "messaggi": 17,
-      "exp": 98,
+      "messaggi": 19,
+      "exp": 111,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -119,8 +119,8 @@
       "muto": false
     },
     "393803482529@s.whatsapp.net": {
-      "messaggi": 9,
-      "exp": 60,
+      "messaggi": 13,
+      "exp": 73,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -141,8 +141,8 @@
       "money": null
     },
     "393445842624@s.whatsapp.net": {
-      "messaggi": 5,
-      "exp": 18,
+      "messaggi": 11,
+      "exp": 54,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -163,6 +163,40 @@
       "money": null
     },
     "120363148902152328@g.us": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "393761539091@s.whatsapp.net": {
+      "messaggi": 2,
+      "exp": 5,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "Pasquale",
+      "muto": false
+    },
+    "393343225398@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "393534075737@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "183249225650376@lid": {
       "messaggi": 1,
       "exp": null,
       "limit": null,
@@ -357,7 +391,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 5,
+      "messaggi": 10,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -435,7 +469,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 12,
+      "messaggi": 22,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -473,7 +507,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 1,
+      "messaggi": 3,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
