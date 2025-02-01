@@ -1,8 +1,8 @@
 {
   "users": {
     "8619858371809@s.whatsapp.net": {
-      "messaggi": 72,
-      "exp": 466,
+      "messaggi": 92,
+      "exp": 611,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -23,8 +23,8 @@
       "money": null
     },
     "393462611795@s.whatsapp.net": {
-      "messaggi": 3,
-      "exp": 6,
+      "messaggi": 4,
+      "exp": 14,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -39,8 +39,8 @@
       "muto": false
     },
     "27682560152@s.whatsapp.net": {
-      "messaggi": 2,
-      "exp": 1,
+      "messaggi": 3,
+      "exp": 10,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -55,8 +55,8 @@
       "muto": false
     },
     "14472025202@s.whatsapp.net": {
-      "messaggi": 2,
-      "exp": 6,
+      "messaggi": 3,
+      "exp": 7,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -71,8 +71,8 @@
       "muto": false
     },
     "15732066304@s.whatsapp.net": {
-      "messaggi": 2,
-      "exp": 9,
+      "messaggi": 3,
+      "exp": 18,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -87,8 +87,8 @@
       "muto": false
     },
     "393248743113@s.whatsapp.net": {
-      "messaggi": 2,
-      "exp": 9,
+      "messaggi": 3,
+      "exp": 15,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -103,8 +103,8 @@
       "muto": false
     },
     "393292852086@s.whatsapp.net": {
-      "messaggi": 2,
-      "exp": 3,
+      "messaggi": 3,
+      "exp": 10,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -135,10 +135,20 @@
       "muto": false
     },
     "393381834457@s.whatsapp.net": {
-      "messaggi": 1,
-      "exp": null,
-      "limit": null,
-      "money": null
+      "messaggi": 2,
+      "exp": 5,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "𝒑𝒊𝒌𝒂ᴮᵒᵗ",
+      "muto": false
     },
     "393445842624@s.whatsapp.net": {
       "messaggi": 11,
@@ -163,10 +173,20 @@
       "money": null
     },
     "120363148902152328@g.us": {
-      "messaggi": 1,
-      "exp": null,
-      "limit": null,
-      "money": null
+      "messaggi": 2,
+      "exp": 10,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": {},
+      "muto": false
     },
     "393761539091@s.whatsapp.net": {
       "messaggi": 2,
@@ -253,8 +273,8 @@
       "money": null
     },
     "393515533859@s.whatsapp.net": {
-      "messaggi": 20,
-      "exp": 321,
+      "messaggi": 28,
+      "exp": 475,
       "limit": 20,
       "money": 0,
       "blasphemy": 0,
@@ -275,8 +295,8 @@
       "money": null
     },
     "393508287515@s.whatsapp.net": {
-      "messaggi": 3,
-      "exp": 13,
+      "messaggi": 4,
+      "exp": 19,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -297,10 +317,20 @@
       "money": null
     },
     "393899685593@s.whatsapp.net": {
-      "messaggi": 1,
-      "exp": null,
-      "limit": null,
-      "money": null
+      "messaggi": 3,
+      "exp": 8,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "GIOVANNI",
+      "muto": false
     },
     "187857759113336@lid": {
       "messaggi": 1,
@@ -309,8 +339,8 @@
       "money": null
     },
     "393714131010@s.whatsapp.net": {
-      "messaggi": 3,
-      "exp": 9,
+      "messaggi": 5,
+      "exp": 19,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -325,8 +355,8 @@
       "muto": false
     },
     "393275605483@s.whatsapp.net": {
-      "messaggi": 2,
-      "exp": 6,
+      "messaggi": 4,
+      "exp": 14,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -339,6 +369,65 @@
       "premiumTime": 0,
       "name": "Anna Maria Castronovo",
       "muto": false
+    },
+    "120363160031023229@newsletter": {
+      "messaggi": 4,
+      "exp": 20,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "muto": false
+    },
+    "393938545133@s.whatsapp.net": {
+      "messaggi": 5,
+      "exp": 11,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "𝔖𝔱𝔢𝔣𝔞𝔫𝔦𝔞",
+      "muto": false
+    },
+    "393471281264@s.whatsapp.net": {
+      "messaggi": 4,
+      "exp": 18,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "Oliva Michele",
+      "muto": false
+    },
+    "120363261861628491@g.us": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "393716463626@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
     }
   },
   "chats": {
@@ -373,7 +462,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 19,
+      "messaggi": 27,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -451,7 +540,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 21,
+      "messaggi": 32,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -723,7 +812,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 57,
+      "messaggi": 72,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -762,7 +851,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 2,
+      "messaggi": 8,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -801,7 +890,123 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
+      "messaggi": 15,
+      "blasphemy": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "tprem": 0,
+      "money": 0,
+      "warn": 0
+    },
+    "120363160031023229@newsletter": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "modohorny": false,
+      "gpt": true,
+      "bestemmiometro": true,
+      "antiporno": true,
+      "antielimina": false,
+      "audios": false,
+      "antiLinkfast": true,
+      "antiLink": true,
+      "antiLink2": false,
+      "antilinkbase": false,
+      "antitiktokbase": false,
+      "antiinsta": true,
+      "antitiktok": true,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": true,
+      "antiArab": true,
+      "modoadmin": false,
+      "antiPorno": true,
+      "muto": false,
+      "expired": 0,
       "messaggi": 4,
+      "blasphemy": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "tprem": 0,
+      "money": 0,
+      "warn": 0
+    },
+    "120363394749068127@g.us": {
+      "name": "𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲",
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "modohorny": false,
+      "gpt": true,
+      "bestemmiometro": true,
+      "antiporno": true,
+      "antielimina": false,
+      "audios": false,
+      "antiLinkfast": true,
+      "antiLink": true,
+      "antiLink2": false,
+      "antilinkbase": false,
+      "antitiktokbase": false,
+      "antiinsta": true,
+      "antitiktok": true,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": true,
+      "antiArab": true,
+      "modoadmin": false,
+      "antiPorno": true,
+      "muto": false,
+      "expired": 0,
+      "messaggi": 2,
+      "blasphemy": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "tprem": 0,
+      "money": 0,
+      "warn": 0
+    },
+    "120363261861628491@g.us": {
+      "name": {},
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "modohorny": false,
+      "gpt": true,
+      "bestemmiometro": true,
+      "antiporno": true,
+      "antielimina": false,
+      "audios": false,
+      "antiLinkfast": true,
+      "antiLink": true,
+      "antiLink2": false,
+      "antilinkbase": false,
+      "antitiktokbase": false,
+      "antiinsta": true,
+      "antitiktok": true,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": true,
+      "antiArab": true,
+      "modoadmin": false,
+      "antiPorno": true,
+      "muto": false,
+      "expired": 0,
+      "messaggi": 1,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -812,10 +1017,10 @@
   },
   "stats": {
     "menu-principale.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1738407899094,
-      "lastSuccess": 1738407899094
+      "total": 13,
+      "success": 13,
+      "last": 1738408684551,
+      "lastSuccess": 1738408684551
     },
     "menu-funzioni.js": {
       "total": 3,
@@ -830,10 +1035,10 @@
       "lastSuccess": 1738405383175
     },
     "info-ping.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1738406773101,
-      "lastSuccess": 1738406773101
+      "total": 6,
+      "success": 6,
+      "last": 1738408172564,
+      "lastSuccess": 1738408172564
     },
     "info-owner.js": {
       "total": 2,
@@ -848,10 +1053,10 @@
       "lastSuccess": 1738405672266
     },
     "info-installa.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1738405858430,
-      "lastSuccess": 1738405858430
+      "total": 3,
+      "success": 3,
+      "last": 1738408699324,
+      "lastSuccess": 1738408699324
     },
     "gp-Insulto.js": {
       "total": 2,

@@ -142,15 +142,15 @@ let handler = async (_0x23a611, {
             'isForwarded': !![],
             'forwardedNewsletterMessageInfo': {
                 'newsletterJid': 'https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J',
-                'serverMessageId': '',
-                'newsletterName': '' + _0x969fa1
+                'serverMessageId': '𝐂𝐥𝐢𝐜𝐜𝐚 𝐬𝐨𝐭𝐭𝐨',
+                'newsletterName': '𝐂𝐥𝐢𝐜𝐜𝐚 𝐬𝐨𝐭𝐭𝐨'  +  _0x969fa1
             },
     'externalAdReply': {
-        'title': 'Unisciti al nostro canale!',
+        'title': '𝐂𝐥𝐢𝐜𝐜𝐚 𝐪𝐮𝐢 𝐩𝐞𝐫 𝐞𝐧𝐭𝐫𝐚𝐫𝐞 𝐧𝐞𝐥 𝐧𝐨𝐬𝐭𝐫𝐨 𝐜𝐚𝐧𝐚𝐥𝐞',
         'body': 'Clicca qui per accedere: [WhatsApp Channel](https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J)',
         'mediaType': 0x1,
         'renderLargerThumbnail': true,
-        'previewType': 'entra nel nostro canale!',
+        'previewType': '𝐂𝐥𝐢𝐜𝐜𝐚 𝐪𝐮𝐢 𝐩𝐞𝐫 𝐞𝐧𝐭𝐫𝐚𝐫𝐞 𝐧𝐞𝐥𝐧𝐨𝐬𝐭𝐫𝐨 𝐜𝐚𝐧𝐚𝐥𝐞',
         'thumbnail': _0x5ed9a5,
         'sourceUrl': 'https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J'
             }
