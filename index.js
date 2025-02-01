@@ -13,7 +13,7 @@ const { name, author } = require(join(__dirname, './package.json'))
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('\n𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲\n𝐁𝐨𝐭', {
+say('\nCHATUNITY\nBOT', {
 font: 'block',
 align: 'center',
 color: ['cyan', 'green']})
