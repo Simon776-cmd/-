@@ -45,7 +45,7 @@ function _0x30fe() {
         '𝐩𝐮𝐭𝐭𝐚𝐧𝐚\x20@\x0a-\x20',
         'getName',
         'ZAiBl',
-        '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝\x20🔮',
+        'ChatUnity-Bot-𝐌𝐝\x20🔮',
         '4toEJQc',
         '3393410lPLOcF',
         'length',

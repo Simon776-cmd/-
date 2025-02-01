@@ -325,7 +325,7 @@ function _0x5b83() {
         '\x0a>\x20✍️\x20𝐏𝐫𝐞𝐟𝐢𝐬𝐬𝐨\x20:\x20*',
         'Halo',
         'QJIco',
-        '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝\x20🔮'
+        'ChatUnity-Bot-𝐌𝐝\x20🔮'
     ];
     _0x5b83 = function () {
         return _0x29281d;

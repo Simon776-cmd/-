@@ -7,7 +7,7 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
+  ['8619858371809', 'ChatUnity', true],
   ['xxxxxxxxxx',],
   ['xxxxxxxxxx'],	
   ['xxxxxxxxxx',],
@@ -17,8 +17,8 @@ global.owner = [
 
 //────────────────────────────
 
-global.mods = ['xxxxxxxxxx'] 
-global.prems = ['xxxxxxxxxx', 'xxxxxxxxxx']
+global.mods = ['8619858371809'] 
+global.prems = ['8619858371809', 'xxxxxxxxxx']
 
 //────────────────────────────
 
@@ -59,20 +59,20 @@ global.imagen4 = fs.readFileSync('./bixbyvision16.png')
 //────────────────────────────
 
 // Sticker WM (Nome del pacchetto degli sticker)
-global.packname = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭'
+global.packname = 'ChatUnity-Bot'
 global.author = '𝐌𝐝'
 
 //────────────────────────────
 
 global.vs = '𝟐.𝟐'
 
-global.nomebot = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
+global.nomebot = 'ChatUnity-Bot-𝐌𝐝'
 
 global.multiplier = 69 
 global.maxwarn = '4' 
 //────────────────────────────
 
-global.wm = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
+global.wm = 'ChatUnity-Bot-𝐌𝐝'
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...'
 
 //────────────────────────────

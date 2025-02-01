@@ -317,7 +317,7 @@ if (opcion == '1' || methodCodeQR) {
  }}
   if (connection == 'open') {
     await conn.groupAcceptInvite('DrnPDROIs6W8ZGCLPvKL0t')
-    console.log(chalk.green('\n𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝 𝐜𝐨𝐧𝐧𝐞𝐬𝐬𝐨 ✅️ \n'))
+    console.log(chalk.green('\nChatUnity-Bot-𝐌𝐝 𝐜𝐨𝐧𝐧𝐞𝐬𝐬𝐨 ✅️ \n'))
   }
 let reason = new Boom(lastDisconnect?.error)?.output?.statusCode;
 if (reason == 405) {
@@ -512,7 +512,7 @@ setInterval(async () => {
   if (stopped === 'close' || !conn || !conn.user) return;
   const _uptime = process.uptime() * 1000;
   const uptime = clockString(_uptime);
-  const bio = `𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝 🔮 𝐨𝐧𝐥𝐢𝐧𝐞 𝐝𝐚 ${uptime} `
+  const bio = `ChatUnity-Bot-𝐌𝐝 🔮 𝐨𝐧𝐥𝐢𝐧𝐞 𝐝𝐚 ${uptime} `
   await conn.updateProfileStatus(bio).catch((_) => _);
 }, 60000);
 function clockString(ms) {

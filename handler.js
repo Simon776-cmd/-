@@ -509,7 +509,7 @@ export async function participantsUpdate({ id, participants, action }) {
                     } catch (e) {
                     } finally {
                         let apii = await this.getFile(pp)
-                        let nomeDelBot = global.db.data.nomedelbot || `𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝 🔮`
+                        let nomeDelBot = global.db.data.nomedelbot || `ChatUnity-Bot-𝐌𝐝 🔮`
                         text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Benvenuto, @user!').replace('@subject', await this.getName(id)).replace('@desc', groupMetadata.desc?.toString() || 'bot') :
                             (chat.sBye || this.bye || conn.bye || 'Addio, @user!')).replace('@user', '@' + user.split('@')[0])
                         this.sendMessage(id, { 
@@ -548,7 +548,7 @@ export async function participantsUpdate({ id, participants, action }) {
                         pp = await this.profilePictureUrl(user, 'image')
                     } catch (e) {
                     } finally {
-                        let nomeDelBot = global.db.data.nomedelbot || `𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝 🔮`
+                        let nomeDelBot = global.db.data.nomedelbot || `ChatUnity-Bot-𝐌𝐝 🔮`
                         let apii = await this.getFile(pp)
                         text = (action === 'promote' ? (chat.sPromote || this.spromote || conn.spromote || '@user ```è ora admin```') :
                             (chat.sDemote || this.sdemote || conn.sdemote || '@user ```non è più admin```')).replace('@user', '@' + user.split('@')[0])
@@ -603,7 +603,7 @@ export async function callUpdate(callUpdate) {
     if (nk.status == "offer") {
     let callmsg = await this.reply(nk.from, `ciao @${nk.from.split('@')[0]}, c'è anticall.`, false, { mentions: [nk.from] })
     //let data = global.owner.filter(([id, isCreator]) => id && isCreator)
-    let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;𝐃𝚲𝐍𝕀𝚵𝐋͎💋;;;\nFN:𝐃𝚲𝐍𝕀𝚵𝐋͎💋\nORG:𝐃𝚲𝐍𝕀𝚵𝐋͎💋\nTITLE:\nitem1.TEL;waid=33760536110:+33 7 60 53 61 10\nitem1.X-ABLabel:𝐃𝚲𝐍𝕀𝚵𝐋͎💋\nX-WA-BIZ-DESCRIPTION:ofc\nX-WA-BIZ-NAME:𝐃𝚲𝐍𝕀𝚵𝐋͎💋\nEND:VCARD`
+    let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;ChatUnity;;;\nFN:ChatUnity\nORG:ChatUnity\nTITLE:\nitem1.TEL;waid=33760536110:+33 7 60 53 61 10\nitem1.X-ABLabel:ChatUnity\nX-WA-BIZ-DESCRIPTION:ofc\nX-WA-BIZ-NAME:ChatUnity\nEND:VCARD`
     await this.sendMessage(nk.from, { contacts: { displayName: 'Unlimited', contacts: [{ vcard }] }}, {quoted: callmsg})
     await this.updateBlockStatus(nk.from, 'block')
     }
