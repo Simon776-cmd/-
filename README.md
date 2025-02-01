@@ -16,9 +16,8 @@
 
 
 ###  Canale ChatUnity
-<a href="https://dash.skyultraplus.com"><img src="https://qu.ax/zFzXF.png" height="125px"></a>
 
-- **Canale WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J)
+- **Canale WhatsApp:** [`clicca quí`](https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J)
 - **Contatto/i:** [`ChatUnity`](https://wa.me/8619858371809) 
 
  ### `✦ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐄 𝐃𝐈 𝐓𝐄𝐑𝐌𝐔𝐗 𝐍𝐄𝐂𝐄𝐒𝐒𝐀𝐑𝐈𝐀: `  
