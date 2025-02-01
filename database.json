@@ -1,8 +1,8 @@
 {
   "users": {
     "8619858371809@s.whatsapp.net": {
-      "messaggi": 575,
-      "exp": 5408,
+      "messaggi": 607,
+      "exp": 5579,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -119,8 +119,8 @@
       "muto": false
     },
     "393803482529@s.whatsapp.net": {
-      "messaggi": 303,
-      "exp": 1999,
+      "messaggi": 325,
+      "exp": 2096,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -433,11 +433,11 @@
       "muto": false
     },
     "393471281264@s.whatsapp.net": {
-      "messaggi": 38,
-      "exp": 255,
+      "messaggi": 42,
+      "exp": 275,
       "limit": 20,
       "money": null,
-      "blasphemy": 0,
+      "blasphemy": 1,
       "msg": {},
       "warn": 0,
       "joincount": 2,
@@ -529,11 +529,11 @@
       "muto": false
     },
     "393513591447@s.whatsapp.net": {
-      "messaggi": 73,
-      "exp": 407,
+      "messaggi": 84,
+      "exp": 468,
       "limit": 20,
       "money": null,
-      "blasphemy": 0,
+      "blasphemy": 1,
       "msg": {},
       "warn": 2,
       "joincount": 2,
@@ -579,8 +579,8 @@
       "money": null
     },
     "393317739812@s.whatsapp.net": {
-      "messaggi": 71,
-      "exp": 514,
+      "messaggi": 83,
+      "exp": 569,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -821,8 +821,8 @@
       "money": null
     },
     "393519688637@s.whatsapp.net": {
-      "messaggi": 33,
-      "exp": 174,
+      "messaggi": 61,
+      "exp": 326,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -945,7 +945,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 62,
+      "messaggi": 63,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -1374,7 +1374,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 118,
+      "messaggi": 121,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -1569,7 +1569,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 50,
+      "messaggi": 51,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -1648,7 +1648,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 339,
+      "messaggi": 377,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -1687,7 +1687,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 222,
+      "messaggi": 226,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2348,7 +2348,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 14,
+      "messaggi": 18,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2426,7 +2426,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 45,
+      "messaggi": 62,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2448,7 +2448,7 @@
       "gpt": true,
       "bestemmiometro": true,
       "antiporno": true,
-      "antielimina": false,
+      "antielimina": true,
       "audios": false,
       "antiLinkfast": true,
       "antiLink": true,
@@ -2465,7 +2465,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 41,
+      "messaggi": 82,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2605,16 +2605,16 @@
       "lastSuccess": 1738430265214
     },
     "enable.js": {
-      "total": 22,
-      "success": 22,
-      "last": 1738429641532,
-      "lastSuccess": 1738429641532
+      "total": 23,
+      "success": 23,
+      "last": 1738432753014,
+      "lastSuccess": 1738432753014
     },
     "info-ping.js": {
-      "total": 14,
-      "success": 14,
-      "last": 1738430253064,
-      "lastSuccess": 1738430253064
+      "total": 15,
+      "success": 15,
+      "last": 1738432956783,
+      "lastSuccess": 1738432956783
     },
     "info-owner.js": {
       "total": 4,

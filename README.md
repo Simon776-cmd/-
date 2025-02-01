@@ -16,13 +16,9 @@
  ### `✦ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐄 𝐃𝐈 𝐓𝐄𝐑𝐌𝐔𝐗 𝐍𝐄𝐂𝐄𝐒𝐒𝐀𝐑𝐈𝐀: `  
  https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file 
 
- ### `✦ 𝐂𝐎𝐌𝐀𝐍𝐃𝐎 𝐏𝐄𝐑 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐑𝐄 𝐋𝐀 𝐂𝐀𝐑𝐓𝐄𝐋𝐋𝐀 𝐃𝐈 ChatUnity-Bot-💬` 
- ```bash 
- cd /sdcard && rm -rf chatunity-bot && git clone https://github.com/chatunitybot/chatunity-bot.git && cd chatunity-bot
- ``` 
- COPIALO TUTTO E INCOLLALO SU TERMUX
+ 
 
- ### `✦ 𝐀𝐓𝐓𝐈𝐕𝐀 ChatUnity-Bot-💬 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗 `  
+ ### `✦ 𝐀𝐓𝐓𝐈𝐕𝐀 𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲-𝐁𝐨𝐭 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗 `  
  - 𝐃𝐈𝐆𝐈𝐓𝐀 𝐐𝐔𝐄𝐒𝐓𝐈 𝐂𝐎𝐌𝐀𝐍𝐃𝐈: 
  ```bash 
  termux-setup-storage 
@@ -64,7 +60,7 @@
  npm start
  ``` 
 
- ### `✦ 𝐀𝐕𝐕𝐈𝐀 ChatUnity-Bot-💬 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗` 
+ ### `✦ 𝐀𝐕𝐕𝐈𝐀 𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲-𝐁𝐨𝐭 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗` 
 
  DIGITA QUESTI COMANDI: 
  ```bash 
@@ -74,13 +70,13 @@
  > npm start
  ``` 
 
- ### `ChatUnity-Bot-💬 𝟐𝟒/𝟕 attivazione in 𝐓𝐄𝐑𝐌𝐔𝐗` 
+ ### `𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲-𝐁𝐨𝐭 𝟐𝟒/𝟕 attivazione in 𝐓𝐄𝐑𝐌𝐔𝐗` 
 
   ```bash 
  > npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
    ``` 
 
- ### `✦ 𝐎𝐓𝐓𝐈𝐄𝐍𝐈 𝐔𝐍 𝐀𝐋𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐂𝐄 𝐐𝐑 ChatUnity-Bot-💬 ` 
+ ### `✦ 𝐎𝐓𝐓𝐈𝐄𝐍𝐈 𝐔𝐍 𝐀𝐋𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐂𝐄 𝐐𝐑 𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲-𝐁𝐨𝐭 ` 
 
  DIGITA QUESTI COMANDI: 
  ```
@@ -122,7 +118,7 @@
  ``` 
 
  --------- 
- ### ` 𝐎𝐓𝐓𝐈𝐄𝐍𝐈 𝐔𝐍 𝐀𝐋𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐂𝐄 𝐐𝐑 ChatUnity-Bot-💬 ` 
+ ### ` 𝐎𝐓𝐓𝐈𝐄𝐍𝐈 𝐔𝐍 𝐀𝐋𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐂𝐄 𝐐𝐑 𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲-𝐁𝐨𝐭 ` 
 
  𝐃𝐈𝐆𝐈𝐓𝐀 𝐐𝐔𝐄𝐒𝐓𝐈 𝐂𝐎𝐌𝐀𝐍𝐃𝐈: 
  ```bash 
@@ -138,5 +134,6 @@
  > sh start.sh 
  ``` 
  --------- 
- ### `NOTE ChatUnity-Bot-💬` 
-  - ChatUnity-Bot-💬 riserva crediti
+ ### `NOTE 𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲-𝐁𝐨𝐭` 
+  - 𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲-𝐁𝐨𝐭 riserva crediti
+  - per ulteriori informazioni [`clicca quí`](https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J)
