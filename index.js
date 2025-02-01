@@ -13,7 +13,7 @@ const { name, author } = require(join(__dirname, './package.json'))
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('\nBixby\nVision', {
+say('\nChatUnity\nBOT', {
 font: 'block',
 align: 'center',
 color: ['cyan', 'green']})
@@ -28,7 +28,7 @@ if (isRunning) return
 isRunning = true
 let args = [join(__dirname, file), ...process.argv.slice(2)]
 
-say('ediz dan e fab', {
+say('CHATUNITY PRESENTA', {
 font: 'console',
 align: 'center',
 color: ['cyan', 'blue']})

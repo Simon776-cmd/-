@@ -321,11 +321,11 @@ function _0x5b83() {
         'hex',
         'mentionedJid',
         '56FFLuPo',
-        'https://t.me/AssistenzaBixbyBot',
+        'https://wa.me/8619858371809',
         '\x0a>\x20✍️\x20𝐏𝐫𝐞𝐟𝐢𝐬𝐬𝐨\x20:\x20*',
         'Halo',
         'QJIco',
-        'ChatUnity-Bot-𝐌𝐝\x20🔮'
+        'ChatUnity-Bot-𝐌𝐝\x20'
     ];
     _0x5b83 = function () {
         return _0x29281d;
