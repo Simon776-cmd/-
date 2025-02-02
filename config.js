@@ -7,7 +7,7 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['8619858371809', 'ChatUnity', true],
+  ['27848240079', '𝐓𝐢𝐭𝐚𝐧ᴮᴼᵀ✦', true],
   ['xxxxxxxxxx',],
   ['xxxxxxxxxx'],	
   ['xxxxxxxxxx',],
